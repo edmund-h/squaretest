@@ -1,0 +1,12 @@
+PODS:
+  - SquarePointOfSaleSDK (3.1)
+
+DEPENDENCIES:
+  - SquarePointOfSaleSDK
+
+SPEC CHECKSUMS:
+  SquarePointOfSaleSDK: b5f4d00022d88e31e20c81efeffa43f553128b9d
+
+PODFILE CHECKSUM: 5b4a7a73f4ebb09777eeae685085a2db9f85cf68
+
+COCOAPODS: 1.2.1
